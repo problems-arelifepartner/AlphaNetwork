@@ -6,3 +6,5 @@ $ pkg update && pkg upgrade -y && pkg install python git unzip -y && pip install
 $ python get_zip.py
 
 $ unzip vuln-scan-2025-light.zip
+
+© copyright 
